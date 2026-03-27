@@ -1,98 +1,58 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BharadwajRaghunathan/BharadwajRaghunathan/main/banner.png" alt="banner" />
-</p>
+# Hi, I’m Bharadwaj 👋
 
-# Hi, I'm Bharadwaj 👋
-
-🚀 Final-year Computer Science student @ SRM Institute of Science and Technology
-💻 Building AI-powered products & autonomous agent systems
+🚀 Final-year Computer Science student at SRM Institute of Science and Technology
+💻 Building AI-powered web applications, autonomous agent systems, and full-stack products
 
 ---
 
 ## 🧠 About Me
 
-I design and ship **production-ready AI applications** that combine modern frontend systems with intelligent backend architectures.
+I’m a passionate and driven developer focused on building **production-ready AI systems** and scalable web applications.
 
-* ⚡ Full-stack: **Next.js 14, React, TypeScript, Tailwind CSS**
-* 🛠 Backend: **Prisma, PostgreSQL, scalable API design**
-* 🤖 Agentic AI: **LangGraph, LangChain, Groq, Tavily**
-* 🔍 Focus: **Multi-LLM systems, grounded AI, reducing hallucination**
-* 🚀 Workflow: **Cursor, Claude Code → fast + high-quality shipping**
+I specialize in developing responsive and scalable applications using **Next.js 14, React, TypeScript, and Tailwind CSS**, with a strong focus on clean and intuitive user interfaces.
+
+On the backend, I work with **Next.js API routes, Prisma ORM, and PostgreSQL**, designing structured and efficient data-driven systems. I also integrate AI models using **OpenRouter APIs**, enabling applications to leverage multiple large language models for intelligent automation and content generation.
 
 ---
 
-## 🧰 Tech Stack
+## 🤖 Agentic AI Focus
 
-### Frontend
+Recently, I’ve been going deep into **agentic AI**, building autonomous multi-step systems using:
 
-Next.js • React • TypeScript • Tailwind CSS
+* LangGraph
+* LangChain
+* Groq
+* Tavily
 
-### Backend & Database
+I use **LangSmith and Langfuse** for observability and debugging in production, and **Chroma with HuggingFace embeddings** for vector memory.
 
-Node.js • Next.js API Routes • Prisma ORM • PostgreSQL
-
-### AI / ML
-
-LangGraph • LangChain • Groq • OpenRouter APIs
-Chroma (Vector DB) • HuggingFace Embeddings • Tavily
-
-### Tools & Platforms
-
-Docker • Firebase Authentication • AWS S3 • Postman
-LangSmith • Langfuse
+My focus is on solving real problems with agents — from **multi-LLM orchestration pipelines** to **autonomous research systems** that reduce hallucination using grounded web retrieval.
 
 ---
 
-## 🔬 What I'm Focused On
+## ⚙️ Tools & Workflow
 
-* Building **autonomous multi-step AI agents**
-* Designing **multi-LLM orchestration pipelines**
-* Creating **real-world AI products (not demos)**
-* Improving **LLM reliability using retrieval + validation**
+I build fast and efficiently using AI-assisted tools like **Cursor** and **Claude Code**, allowing me to ship high-quality systems without compromising depth or understanding.
 
----
+Additional tools and platforms I work with:
 
-## 🚀 Featured Projects
-
-* 🔍 **AutoResearch AI**
-  → Autonomous competitor intelligence system
-
-* ⚔️ **Compare Brands**
-  → Multi-agent competitive analysis platform
-
-* 🧠 **Creative Decoder**
-  → LLM-powered creative strategy breakdown
+* Firebase Authentication
+* AWS S3
+* Docker
+* Postman
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 What Drives Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BharadwajRaghunathan&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BharadwajRaghunathan&layout=compact&theme=tokyonight" />
-</p>
+I enjoy building **end-to-end products** that combine:
 
----
+* Modern frontend frameworks
+* Robust backend architectures
+* Intelligent AI agent systems
 
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=BharadwajRaghunathan&theme=tokyonight" />
-</p>
+I’m continuously exploring new technologies and motivated to contribute to teams working on **impactful, production-grade AI solutions**.
 
 ---
 
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/bharadwajr21/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Bharadwaj%20R-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://bharadwajr.in/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-bharadwajr.in-purple?style=for-the-badge&logo=vercel" />
-  </a>
-</p>
-
----
-
-⭐ **Always building. Always learning. Always shipping.**
+⭐ Always building. Always learning. Always shipping.
